@@ -37,7 +37,7 @@
 <br><br><br>
 <h3 align="center">GitHub Trophies:</h3>
 <hr> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabasaraashen&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="se-laps" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabasaraashen&theme=radical&no-frame=false&no-bg=true&margin-w=6" alt="pabasara" /></a> </p>
 
 
 
